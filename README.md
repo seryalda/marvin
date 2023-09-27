@@ -9,8 +9,10 @@
 - 🛠️ [Usage](#usage)
 - ⚙️ [Installation](#installation)
 - 📹 [Tutorials](#tutorials)
+- 🖥️ [Compatible Processor Boards](#compatible-processor-boards)
 - 🤝 [Contributing](#contributing)
 - 📝 [License](#license)
+
 
 
 ## Introduction <a name="introduction"></a>
@@ -75,6 +77,17 @@ Check out our video tutorials on YouTube to learn how to get started with MARVIN
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
+## Compatible Processor Boards <a name="compatible-processor-boards"></a>
+
+MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, including:
+
+- **Foghorn Version 1.0.0 Processor Board:** The MARVIN board relay driver seamlessly integrates with the Foghorn Version 1.0.0 Processor Board, offering versatile relay control capabilities.
+
+**Number of Relay Outputs Supported:** MARVIN PCB Board v1.0.0 supports up to 4 relay outputs, making it ideal for various applications.
+
+Explore the compatibility of MARVIN with these processor boards to enhance your projects.
+
+[🔝 Back to Table of Contents](#table-of-contents)
 
 
 ## Contributing <a name="contributing"></a>
