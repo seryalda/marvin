@@ -61,5 +61,3 @@ Specify the license for the MARVIN PCB Board v1.0.0 project. For example, if it'
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
-
-**Note:** Emojis add a fun and expressive touch to your README. You can find emoji codes on websites like [Emojipedia](https://emojipedia.org/) or use HTML entities for more control. If you want to include specific icons, you can explore libraries like [Font Awesome](https://fontawesome.com/) and include them using HTML or Markdown as needed.
