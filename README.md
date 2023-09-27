@@ -42,7 +42,3 @@ Specify the license for your project. For example, if it's open source, you can 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
-
-**Note:** Replace the placeholders like `front_image_url_here`, `back_image_url_here`, `3d_image_1_url_here`, and `3d_image_2_url_here` with the actual URLs of your PCB board images. You can host these images on platforms like GitHub, Imgur, or any image hosting service.
-
-This template allows you to display the images at the top of your README file, making them prominently visible to anyone visiting your GitHub repository.
