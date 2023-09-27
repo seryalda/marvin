@@ -1,6 +1,6 @@
 # PCB Board Showcase
 
-![PCB Front](3d1.png) ![PCB Back](back_image_url_here) ![PCB 3D 1](3d_image_1_url_here) ![PCB 3D 2](3d_image_2_url_here)
+![PCB Front](3d1.png) ![PCB Back](3d2.png) ![PCB 3D 1](top.png) ![PCB 3D 2](back.png)
 
 ## Table of Contents
 
