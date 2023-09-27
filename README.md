@@ -1,6 +1,6 @@
 # PCB Board Showcase
 
-![PCB Front](3d1.png) ![PCB Back](3d2.png) ![PCB 3D 1](top.png) ![PCB 3D 2](back.png)
+<img src="3d1.png" alt="PCB Front" width="200" height="150"> <img src="3d2.png" alt="PCB Back" width="200" height="150"> <img src="top.png" alt="PCB 3D 1" width="200" height="150"> <img src="back.png" alt="PCB 3D 2" width="200" height="150">
 
 ## Table of Contents
 
