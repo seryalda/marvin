@@ -42,8 +42,6 @@ Whether you're a hobbyist, engineer, or developer, MARVIN PCB Board v1.0.0 empow
 
 📊 **Reliable Performance:** Built with quality components and tested for reliable performance, MARVIN ensures smooth and stable relay switching.
 
-🌐 **Open Source:** This project is open source, allowing you to customize and adapt the design to your specific needs.
-
 📖 **Comprehensive Documentation:** Access comprehensive documentation to help you quickly get started and make the most of your relay switch driver.
 
 Explore the versatility and reliability of MARVIN PCB Board v1.0.0 for your relay control applications, with the added benefit of DIN RAIL compatibility for a professional appearance.
