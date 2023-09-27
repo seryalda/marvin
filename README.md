@@ -8,8 +8,10 @@
 - 🎯 [Features](#features)
 - 🛠️ [Usage](#usage)
 - ⚙️ [Installation](#installation)
+- 📹 [Tutorials](#tutorials)
 - 🤝 [Contributing](#contributing)
 - 📝 [License](#license)
+
 
 ## Introduction <a name="introduction"></a>
 
@@ -58,6 +60,21 @@ Explain how to use the MARVIN PCB Board v1.0.0 or any associated software. Inclu
 If there are specific installation instructions for the MARVIN PCB Board v1.0.0 or related software, provide them here.
 
 [🔝 Back to Table of Contents](#table-of-contents)
+
+
+
+
+
+## Tutorials <a name="tutorials"></a>
+
+Check out our video tutorials on YouTube to learn how to get started with MARVIN PCB Board v1.0.0:
+
+1. [Tutorial 1: Getting Started with MARVIN](https://www.youtube.com/watch?v=your_video_link_here)
+2. [Tutorial 2: Advanced Features and Integration](https://www.youtube.com/watch?v=your_video_link_here)
+3. [Tutorial 3: Troubleshooting and Tips](https://www.youtube.com/watch?v=your_video_link_here)
+
+[🔝 Back to Table of Contents](#table-of-contents)
+
 
 ## Contributing <a name="contributing"></a>
 
