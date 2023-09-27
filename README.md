@@ -1,15 +1,15 @@
-# MARVIN PCB Board v1.0.0 Showcase
+# 🚀 MARVIN PCB Board v1.0.0 Showcase
 
-<img src="3d1.png" alt="PCB Front" width="200" height="150"> <img src="3d2.png" alt="PCB Back" width="200" height="150"> <img src="top.png" alt="PCB 3D 1" width="200" height="150"> <img src="back.png" alt="PCB 3D 2" width="200" height="150">
+📷 ![PCB Front](3d1.png) | 📷 ![PCB Back](3d2.png) | 📷 ![PCB 3D 1](top.png) | 📷 ![PCB 3D 2](back.png)
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
+- 📚 [Introduction](#introduction)
+- 🎯 [Features](#features)
+- 🛠️ [Usage](#usage)
+- ⚙️ [Installation](#installation)
+- 🤝 [Contributing](#contributing)
+- 📝 [License](#license)
 
 ## Introduction
 
@@ -19,8 +19,8 @@ Welcome to the MARVIN PCB Board v1.0.0 showcase. This board is designed to [brie
 
 List the key features of the MARVIN PCB Board v1.0.0. For example:
 
-- Feature 1: Describe feature 1 here.
-- Feature 2: Describe feature 2 here.
+- 🌟 Feature 1: Describe feature 1 here.
+- 🌟 Feature 2: Describe feature 2 here.
 - ...
 
 ## Usage
@@ -42,3 +42,5 @@ Specify the license for the MARVIN PCB Board v1.0.0 project. For example, if it'
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
+
+**Note:** Emojis add a fun and expressive touch to your README. You can find emoji codes on websites like [Emojipedia](https://emojipedia.org/) or use HTML entities for more control. If you want to include specific icons, you can explore libraries like [Font Awesome](https://fontawesome.com/) and include them using HTML or Markdown as needed.
