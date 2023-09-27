@@ -29,7 +29,7 @@ Welcome to the MARVIN PCB Board v1.0.0 showcase. This board is purpose-built to 
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
-## Features <a name="features"></a>
+## Features
 
 🔌 **Versatile Relay Switch Driver:** MARVIN v1.0.0 is a versatile relay switch driver designed to control both 5VDC and 12VDC mechanical and solid-state relays.
 
@@ -44,6 +44,10 @@ Welcome to the MARVIN PCB Board v1.0.0 showcase. This board is purpose-built to 
 📦 **Complete Package:** MARVIN PCB Board v1.0.0 comes with all the necessary components and connectors to get you started on your relay control projects.
 
 📊 **Reliable Performance:** Built with quality components and tested for reliable performance, MARVIN ensures smooth and stable relay switching.
+
+🖥️ **Compatible Processor Boards:** MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, including the Foghorn Version 1.0.0 Processor Board, offering versatile relay control capabilities.
+
+**Number of Relay Outputs Supported:** MARVIN PCB Board v1.0.0 supports up to 4 relay outputs, making it ideal for various applications.
 
 📖 **Comprehensive Documentation:** Access comprehensive documentation to help you quickly get started and make the most of your relay switch driver.
 
@@ -81,13 +85,12 @@ Check out our video tutorials on YouTube to learn how to get started with MARVIN
 
 MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, including:
 
-- **Foghorn Version 1.0.0 Processor Board:** The MARVIN board relay driver seamlessly integrates with the Foghorn Version 1.0.0 Processor Board, offering versatile relay control capabilities.
-
-**Number of Relay Outputs Supported:** MARVIN PCB Board v1.0.0 supports up to 4 relay outputs, making it ideal for various applications.
+- **Foghorn Version 1.0.0 Processor Board:** The MARVIN board relay driver seamlessly integrates with the Foghorn Version 1.0.0 Processor Board. This processor board is an ESP8266 NodeMCU compatible board equipped with GPIO pins 4, 5, 12, and 14, allowing you to effortlessly control external switch relays.
 
 Explore the compatibility of MARVIN with these processor boards to enhance your projects.
 
 [🔝 Back to Table of Contents](#table-of-contents)
+
 
 
 ## Contributing <a name="contributing"></a>
