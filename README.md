@@ -29,6 +29,8 @@ List the key features of the MARVIN PCB Board v1.0.0. For example:
 
 🔘 **Easy Integration:** The board is designed for easy integration into your projects, with clear and straightforward pin configurations.
 
+🚀 **DIN RAIL Compatible:** MARVIN PCB Board v1.0.0 is DIN RAIL compatible, allowing you to seamlessly mount it in standard DIN RAIL enclosures. This feature ensures that your projects look professional and can be easily integrated into existing distribution panels.
+
 📦 **Complete Package:** MARVIN PCB Board v1.0.0 comes with all the necessary components and connectors to get you started on your relay control projects.
 
 📊 **Reliable Performance:** Built with quality components and tested for reliable performance, MARVIN ensures smooth and stable relay switching.
@@ -37,7 +39,7 @@ List the key features of the MARVIN PCB Board v1.0.0. For example:
 
 📖 **Comprehensive Documentation:** Access comprehensive documentation to help you quickly get started and make the most of your relay switch driver.
 
-Explore the versatility and reliability of MARVIN PCB Board v1.0.0 for your relay control applications.
+Explore the versatility and reliability of MARVIN PCB Board v1.0.0 for your relay control applications, with the added benefit of DIN RAIL compatibility for a professional appearance.
 
 
 ## Usage
