@@ -1,7 +1,6 @@
-# marvin
 # PCB Board Showcase
 
-![PCB Board](image_url_here)
+![PCB Front](3d1.png) ![PCB Back](back_image_url_here) ![PCB 3D 1](3d_image_1_url_here) ![PCB 3D 2](3d_image_2_url_here)
 
 ## Table of Contents
 
@@ -44,6 +43,6 @@ Specify the license for your project. For example, if it's open source, you can 
 
 ---
 
-**Note:** Replace `image_url_here` with the URL of your PCB board image. You can host the image on platforms like GitHub, Imgur, or any image hosting service.
+**Note:** Replace the placeholders like `front_image_url_here`, `back_image_url_here`, `3d_image_1_url_here`, and `3d_image_2_url_here` with the actual URLs of your PCB board images. You can host these images on platforms like GitHub, Imgur, or any image hosting service.
 
-Feel free to customize the template further by adding more sections or details about your PCB board project. Markdown allows you to create rich and informative README files for your GitHub projects.
+This template allows you to display the images at the top of your README file, making them prominently visible to anyone visiting your GitHub repository.
