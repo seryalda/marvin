@@ -2,7 +2,7 @@
 
 📷 ![PCB Back](3d2.png)
 
-[🏡 Back to Home](./)
+[🏡 Back to Home](/)
 
 ## Table of Contents
 
