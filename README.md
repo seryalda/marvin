@@ -69,11 +69,12 @@ If there are specific installation instructions for the MARVIN PCB Board v1.0.0 
 
 Check out our video tutorials on YouTube to learn how to get started with MARVIN PCB Board v1.0.0:
 
-1. [Tutorial 1: Getting Started with MARVIN](https://www.youtube.com/watch?v=your_video_link_here)
-2. [Tutorial 2: Advanced Features and Integration](https://www.youtube.com/watch?v=your_video_link_here)
-3. [Tutorial 3: Troubleshooting and Tips](https://www.youtube.com/watch?v=your_video_link_here)
+1. [Tutorial 1: Getting Started with MARVIN](https://www.youtube.com/watch?v=your_video_link_here) (Ctrl+Click to open in a new tab)
+2. [Tutorial 2: Advanced Features and Integration](https://www.youtube.com/watch?v=your_video_link_here) (Ctrl+Click to open in a new tab)
+3. [Tutorial 3: Troubleshooting and Tips](https://www.youtube.com/watch?v=your_video_link_here) (Ctrl+Click to open in a new tab)
 
 [🔝 Back to Table of Contents](#table-of-contents)
+
 
 
 ## Contributing <a name="contributing"></a>
