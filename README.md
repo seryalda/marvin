@@ -28,10 +28,6 @@ Whether you're a hobbyist, engineer, or developer, MARVIN PCB Board v1.0.0 empow
 
 ## Features
 
-List the key features of the MARVIN PCB Board v1.0.0. For example:
-
-## Features
-
 🔌 **Versatile Relay Switch Driver:** MARVIN v1.0.0 is a versatile relay switch driver designed to control both 5VDC and 12VDC mechanical and solid-state relays.
 
 🧩 **Jumper Pin Configuration:** The board features jumper pins that allow you to easily configure the voltage output. By shorting specific two pins, you can select either 5VDC or 12VDC to be output on the terminal.
