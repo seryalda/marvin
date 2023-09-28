@@ -2,8 +2,6 @@
 
 📷 ![PCB Back](3dv1.png)
 
-[🏡 Back to Home](/)
-
 ## Table of Contents
 
 - 📚 [Introduction](#introduction)
@@ -14,7 +12,8 @@
 - 🖥️ [Compatible Processor Boards](#compatible-processor-boards)
 - 🤝 [Contributing](#contributing)
 - 📝 [License](#license)
-  
+
+  [🏡 Back to Home](/)
 
 ## Introduction <a name="introduction"></a>
 
