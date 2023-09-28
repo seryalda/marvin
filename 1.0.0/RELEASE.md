@@ -30,6 +30,6 @@ We value your feedback and are open to contributions from the community. If you 
 
 We'd like to express our gratitude to the community and our supporters for making this release possible. We look forward to seeing how MARVIN PCB Board v1.0.0 enhances your projects.
 
-[🏡 Up ](#)
+[🏡 Top ](#)
 
 ---
