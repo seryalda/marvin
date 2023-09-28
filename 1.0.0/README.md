@@ -85,11 +85,14 @@ Check out our video tutorials on YouTube to learn how to get started with MARVIN
 
 MARVIN PCB Board v1.0.0 is compatible with a range of processor boards, including:
 
-- **Foghorn Version 1.0.0 Processor Board:** The MARVIN board relay driver seamlessly integrates with the Foghorn Version 1.0.0 Processor Board. This processor board is an ESP8266 NodeMCU compatible board equipped with GPIO pins 4, 5, 12, and 14, allowing you to effortlessly control external switch relays.
+| Board                                  | Description                                                                                             | GPIO Pins                 |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------|
+| **Foghorn Version 1.0.0 Processor Board** | The MARVIN board relay driver seamlessly integrates with the Foghorn Version 1.0.0 Processor Board. This processor board is an ESP8266 NodeMCU compatible board equipped with GPIO pins 4, 5, 12, and 14, allowing you to effortlessly control external switch relays. | 4, 5, 12, 14              |
 
 Explore the compatibility of MARVIN with these processor boards to enhance your projects.
 
 [🔝 Back to Table of Contents](#table-of-contents)
+
 
 
 
