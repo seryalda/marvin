@@ -31,8 +31,6 @@ Welcome to the MARVIN PCB Board v1.0.0 showcase. This board is purpose-built to 
 
 🛒 **[Visit our E-commerce Store (Amazon.sa)](https://www.amazon.sa/s?k=seryalda)** to purchase MARVIN.
 
-🛒 **[Visit our Generic E-commerce Store](https://www.examplestore.com/marvin-pcb-board)** to purchase MARVIN.
-
 🎥 **[Check out our YouTube Channel](https://www.youtube.com/@seryalda)** for tutorials and project demonstrations.
 
 [🔝 Back to Table of Contents](#table-of-contents)
