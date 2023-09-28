@@ -27,7 +27,13 @@ Welcome to the MARVIN PCB Board v1.0.0 showcase. This board is purpose-built to 
 
 - **Ease of Integration:** With user-friendly jumper pin configurations and DIN RAIL compatibility, MARVIN ensures easy integration into your projects and existing distribution systems.
 
-🛒 **[Visit our E-commerce Store](https://www.examplestore.com/marvin-pcb-board)** to purchase MARVIN and enhance your projects.
+🛒 **[Visit our E-commerce Store (Lazada)](https://www.lazada.com.ph/seryalda)** to purchase MARVIN.
+
+🛒 **[Visit our E-commerce Store (Amazon.sa)](https://www.amazon.sa/s?k=seryalda)** to purchase MARVIN.
+
+🛒 **[Visit our Generic E-commerce Store](https://www.examplestore.com/marvin-pcb-board)** to purchase MARVIN.
+
+🎥 **[Check out our YouTube Channel](https://www.youtube.com/@seryalda)** for tutorials and project demonstrations.
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
