@@ -1,6 +1,6 @@
 # 🚀 MARVIN PCB Board v1.0.0 Showcase
 
-📷 ![PCB Back](3d2.png)
+📷 ![PCB Back](3dv1.png)
 
 [🏡 Back to Home](/)
 
