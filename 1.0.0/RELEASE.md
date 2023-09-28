@@ -2,6 +2,8 @@
 
 🚀 **Version 1.0.0** (Release Date: [Insert Release Date])
 
+[🏡 Back to Home](/)
+
 ## Introduction
 
 Version 1.0.0 marks the initial release of the MARVIN PCB Board. This release is the foundation of our board and includes essential features for controlling mechanical and solid-state relays with ease. It's designed to empower you to manage higher voltage loads efficiently using low-voltage output controllers like Arduino and ESP microcontrollers.
@@ -28,6 +30,6 @@ We value your feedback and are open to contributions from the community. If you 
 
 We'd like to express our gratitude to the community and our supporters for making this release possible. We look forward to seeing how MARVIN PCB Board v1.0.0 enhances your projects.
 
-[🏡 Back to Home](#)
+[🏡 Up ](#)
 
 ---
