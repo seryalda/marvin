@@ -2,7 +2,7 @@
 
 🚀 **Version 1.0.0** (Release Date: [Insert Release Date])
 
-[🏡 Back to Home](/)
+[🏡 Back to Home](./1.0.0)
 
 ## Introduction
 
