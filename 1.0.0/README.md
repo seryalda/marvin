@@ -5,7 +5,7 @@
 [🏡 Back to Home](/)
 ## Table of Contents
 
-- 📚 [Release Notes](./RELEASE.md)
+- 📚 [Release Notes](#release)
 - 📚 [Introduction](#introduction)
 - 🎯 [Features](#features)
 - 🛠️ [Usage](#usage)
@@ -18,7 +18,7 @@
 [🏡 Back to Home](/)
 
 ## Release
-- Initial Release
+- 📚 [Release Notes](./RELEASE.md)
 
 ## Introduction <a name="introduction"></a>
 
