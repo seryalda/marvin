@@ -16,6 +16,10 @@
 - 📝 [License](#license)
   
 [🏡 Back to Home](/)
+
+## Release
+- Initial Release
+
 ## Introduction <a name="introduction"></a>
 
 Welcome to the MARVIN PCB Board v1.0.0 showcase. This board is purpose-built to address a common need in electronics projects: providing a reliable relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control higher voltage switch relays.
