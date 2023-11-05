@@ -5,6 +5,7 @@
 [🏡 Back to Home](/)
 ## Table of Contents
 
+- 📚 [Release](#release)
 - 📚 [Introduction](#introduction)
 - 🎯 [Features](#features)
 - 🛠️ [Usage](#usage)
