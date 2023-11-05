@@ -1,6 +1,6 @@
 # Board Version History
 
-📚 Welcome to the board version history of our awesome project! Check out the different board versions below:
+📚 Welcome to the board version history! Check out the different board versions below (if applicable):
 
 - [🚀 Version 1.0.0](./1.0.0): This is the initial board version that started it all! [Release Notes](./1.0.0/RELEASE.md)
 
