@@ -1,4 +1,4 @@
-# Changelog for Mounting PCB Boards for ESP8266 NodeMCU
+# Changelog for MARVIN Relay Driver Board
 
 ## [1.0.0] - 2023-11-06
 
