@@ -1,6 +1,6 @@
 # Changelog for MARVIN Relay Driver Board
 
-[🏡 Back to Home](/)
+[🏡 Back](/)
 
 ## [1.0.0] - 2023-11-06
 
