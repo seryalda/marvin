@@ -1,6 +1,6 @@
 # Board Version History
 
-[🏡 Home](/)
+[Go Back](../)
 
 ## Introduction <a name="introduction"></a>
 
