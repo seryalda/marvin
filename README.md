@@ -1,6 +1,6 @@
 # Board Version History
 
-[🏡 Home](./seryalda/)
+[🏡 Home](/)
 
 ## Introduction <a name="introduction"></a>
 
