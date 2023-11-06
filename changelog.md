@@ -8,7 +8,8 @@
 - Included silkscreen labels for pinouts, making it easier to identify the GPIO pins on the PCB board.
 - Added mounting holes for easy and secure installation onto various surfaces or enclosures.
 
--->
+
+<!--
 ### Added
 
 - Designed and added a new PCB layout specifically tailored for ESP8266 NodeMCU V3.
@@ -29,7 +30,7 @@
 
 - Eliminated redundant vias and optimized the routing for a cleaner and more efficient PCB design.
 
-<!--
+
 ## [0.2.0] - 2023-08-15
 
 ### Added
@@ -60,3 +61,4 @@
 - Corrected errors in the initial pin assignment that affected functionality.
 
 
+-->
