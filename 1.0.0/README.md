@@ -1,6 +1,8 @@
 # 🚀 MARVIN PCB Board v1.0.0 Showcase
-📷
+
 <img src="3dv1.png" alt="PCB Back" width="300">
+
+<!--📷-->
 
 [🏡 Back to Home](/)
 ## Table of Contents
