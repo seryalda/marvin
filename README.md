@@ -24,4 +24,4 @@ Feel free to explore each board version's folder for more details and release no
 ## Changelog
 - [🚀 Changelog for MARVIN Relay Driver Board](./changelog.md)
 
-📫 [Back](/)
+📫 [Home](https://github.com/seryalda)
