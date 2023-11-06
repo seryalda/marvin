@@ -58,7 +58,7 @@
 - Corrected errors in the initial pin assignment that affected functionality.
 
 
-[🔝 Top](#initial)
+[🔝 Top](#changelog-for-marvin-relay-driver-board)
 
 <!--
 ### Added
