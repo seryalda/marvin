@@ -24,6 +24,7 @@ All notable changes to the PCB mounting process for the ESP8266 NodeMCU will be 
 
 - Eliminated redundant vias and optimized the routing for a cleaner and more efficient PCB design.
 
+<!--
 ## [0.2.0] - 2023-08-15
 
 ### Added
@@ -53,3 +54,4 @@ All notable changes to the PCB mounting process for the ESP8266 NodeMCU will be 
 
 - Corrected errors in the initial pin assignment that affected functionality.
 
+-->
