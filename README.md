@@ -1,8 +1,8 @@
 # Board Version History
 
-[Home](https://github.com/seryalda)
 
-📫 [Back](/)
+
+📫 [Home](https://github.com/seryalda)
 
 ## Introduction <a name="introduction"></a>
 
