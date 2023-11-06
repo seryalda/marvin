@@ -8,7 +8,7 @@
 
 MARVIN (RAIL DIN Ready Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable DC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control higher DC voltage loads such as 5/12VDC switch relays or devices.
 
-📚 Check out the different board versions below (if applicable):
+📚 Check out the different board versions below:
 
 ## Version
 - [🚀 Version 1.0.0](./1.0.0) : This is the initial board version that started it all!
