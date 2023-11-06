@@ -7,7 +7,6 @@ Welcome to the MARVIN (RAIL DIN Ready Relay Driver Board). This board is purpose
 📚 Welcome to the board version history! Check out the different board versions below (if applicable):
 
 - [🚀 Version 1.0.0](./1.0.0): This is the initial board version that started it all!
-- [🌟 Version 1.0.1](./1.0.1): Fixes.
 <!--
 
 - [🔥 Version 2.1.0](./2.1.0): A hotfix release for the board to address critical issues. [Release Notes](./2.1.0/RELEASE.md)
@@ -17,3 +16,4 @@ Welcome to the MARVIN (RAIL DIN Ready Relay Driver Board). This board is purpose
 Feel free to explore each board version's folder for more details and release notes!
 -->
 
+- Read [🚀Changelog](./changelog.md):
