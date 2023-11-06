@@ -19,4 +19,4 @@ Feel free to explore each board version's folder for more details and release no
 -->
 
 ## Changelog
-- [🚀Read Here!](./changelog.md):
+- [🚀Read Here!](./changelog.md)
