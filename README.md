@@ -1,6 +1,7 @@
 # Board Version History
 
-[Go Back](/seryalda/)
+[Home](https://github.com/seryalda)
+
 
 ## Introduction <a name="introduction"></a>
 
