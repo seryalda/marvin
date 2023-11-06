@@ -4,7 +4,7 @@
 
 <!--📷-->
 
-[🏡 Back to Home](/)
+[🏡 Back](/)
 ## Table of Contents
 
 - 📚 [Introduction](#introduction)
@@ -16,7 +16,7 @@
 - 🤝 [Contributing](#contributing)
 - 📝 [License](#license)
   
-[🏡 Back to Home](/)
+[🏡 Back](/)
 
 ## Introduction <a name="introduction"></a>
 
