@@ -108,15 +108,13 @@ Explore the compatibility of MARVIN with these processor boards to enhance your 
 
 ## Contributing <a name="contributing"></a>
 
-If you're open to contributions from the community, explain how others can contribute to your project. Include guidelines for reporting issues, making pull requests, and any coding standards to follow.
+N/A
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
 ## License <a name="license"></a>
 
-Specify the license for the MARVIN PCB Board v1.0.0 project. For example, if it's open source, you can use a license badge and link to the license file.
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+N/A
 
 [🔝 Back to Table of Contents](#table-of-contents)
 
