@@ -18,4 +18,5 @@ Welcome to the MARVIN (RAIL DIN Ready Relay Driver Board). This board is purpose
 Feel free to explore each board version's folder for more details and release notes!
 -->
 
-[🚀Changelog](./changelog.md):
+## Changelog
+[🚀Link](./changelog.md):
