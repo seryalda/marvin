@@ -8,7 +8,7 @@
 - Included silkscreen labels for pinouts, making it easier to identify the GPIO pins on the PCB board.
 - Added mounting holes for easy and secure installation onto various surfaces or enclosures.
 
-[🔝 Back to Table of Contents](#initial)
+[🔝 Top](#initial)
 
 <!--
 ### Added
