@@ -28,4 +28,4 @@ Feel free to explore each board version's folder for more details and release no
 
 
 
-## 📫 [Up](#board-version-history)
+### 📫 [Up](#board-version-history)
