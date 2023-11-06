@@ -1,9 +1,14 @@
 # Changelog for Mounting PCB Boards for ESP8266 NodeMCU
 
-All notable changes to the PCB mounting process for the ESP8266 NodeMCU will be documented in this file.
-
 ## [1.0.0] - 2023-11-06
 
+### Initial
+
+- Designed and added a new PCB layout specifically tailored for ESP8266 NodeMCU V3.
+- Included silkscreen labels for pinouts, making it easier to identify the GPIO pins on the PCB board.
+- Added mounting holes for easy and secure installation onto various surfaces or enclosures.
+
+-->
 ### Added
 
 - Designed and added a new PCB layout specifically tailored for ESP8266 NodeMCU V3.
@@ -54,4 +59,4 @@ All notable changes to the PCB mounting process for the ESP8266 NodeMCU will be 
 
 - Corrected errors in the initial pin assignment that affected functionality.
 
--->
+
