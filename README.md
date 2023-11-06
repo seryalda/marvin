@@ -1,6 +1,6 @@
 # Board Version History
 
-[🏡 Home](././)
+[🏡 Home](/main/)
 
 ## Introduction <a name="introduction"></a>
 
