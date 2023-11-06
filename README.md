@@ -1,6 +1,6 @@
 # Board Version History
 
-[Go Back](../)
+[Go Back](../seryalda)
 
 ## Introduction <a name="introduction"></a>
 
