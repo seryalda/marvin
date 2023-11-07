@@ -1,5 +1,4 @@
-# Changelog for MARVIN Relay Driver Board
-
+# Changelog for MARVIN (DC Relay Driver Board)
 [🏡 Back](/)
 
 ## [1.0.0] - 2023-11-06
