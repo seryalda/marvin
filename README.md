@@ -1,4 +1,4 @@
-# Board Version History
+# MARVIN Board Version History
 
 
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-MARVIN DC Relay Driver Board. This board is purpose-built to address a common need in electronics projects: providing a reliable DC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple DC loads such as 5/12VDC relay switches or devices.
+MARVIN (DC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable DC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple DC loads such as 5/12VDC relay switches or devices.
 
 📚 Check out the different board versions below:
 
