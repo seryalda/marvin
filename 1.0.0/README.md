@@ -1,4 +1,4 @@
-# 🚀 MARVIN v1.0.0
+# 🚀 MARVIN DC Relay Driver v1.0.0
 
 <img src="3dv1.png" alt="PCB Back" width="300">
 
@@ -20,7 +20,7 @@
 
 ## Introduction
 
-Welcome to the MARVIN PCB Board v1.0.0 showcase. This board is purpose-built to address a common need in electronics projects: providing a reliable relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control higher voltage switch relays.
+Welcome to the MARVIN DC Relay Driver showcase. This board is purpose-built to address a common need in electronics projects: providing a reliable relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control higher voltage switch relays.
 
 ### Key Objectives:
 
