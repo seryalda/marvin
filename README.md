@@ -8,7 +8,7 @@
 ## Overview
 
 ### 4-Channel DC Relay Driver Control Board
-MARVIN, a 76mm x 86mm board, focuses on controlling four DC relay switches, offering user-selectable 5VDC or 12VDC output options. Installation is straightforward with two screw holes. Its input terminals are designed for connection to microcontroller output pins, requiring an external 5VDC power source. Ideal for projects necessitating precise control over DC relay switches.
+MARVIN, a 76mm x 86mm board, focuses on controlling four DC relay switches, offering user-selectable 5VDC or 12VDC output options. Installation is straightforward with two screw holes. Its input terminals are designed for connection to microcontroller output pins, requiring an external 5VDC power source. Ideal for projects necessitating precise control over DC relay switches or loads.
 
 📚 Check out the different board versions below:
 
