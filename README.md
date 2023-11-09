@@ -7,7 +7,18 @@
 
 ## Overview
 
-DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
+### MARVIN - 4-Channel DC Relay Driver Board with Voltage Jumper Settings
+
+MARVIN is a specialized RAIL DIN board measuring 76mm x 86mm, featuring two screw holes with 25mm center-to-center distance, designed for 4-channel DC relay driving. Unlike standard relays, MARVIN facilitates the output of user-selected DC voltages (with jumper settings for 5VDC or 12VDC) to activate external DC relay switches.
+
+The board includes input terminals—WJ124-3.81-5P-14-00A and Header-Female-2.54_1x5, DZ254R-11-05-63—connected to the microcontroller's output pins. Powered by an external 5VDC source, this relay driver offers a specialized solution for various electronics projects.
+
+**Key Features:**
+- 4-channel DC relay driver with jumper settings for 5VDC or 12VDC output.
+- Input terminals connected to microcontroller output pins.
+- Designed for activating external DC relay switches using user-selected DC voltages.
+- Dimensions: 76mm x 86mm RAIL DIN board with screw holes for easy installation.
+- Powered by an external 5VDC source for reliable performance.
 
 📚 Check out the different board versions below:
 
