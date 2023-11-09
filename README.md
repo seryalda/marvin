@@ -1,5 +1,5 @@
 ## Top
-# DAWG Board Version History
+# MARVIN Board Version History
 
 
 
@@ -18,7 +18,7 @@ The board includes input terminals—WJ124-3.81-5P-14-00A and Header-Female-2.54
 - Input terminals connected to microcontroller output pins.
 - Designed for activating external DC relay switches using user-selected DC voltages.
 - Dimensions: 76mm x 86mm RAIL DIN board with screw holes for easy installation.
-- Powered by an external 5VDC source for reliable performance.
+- Powered by an external 5VDC source.
 
 📚 Check out the different board versions below:
 
