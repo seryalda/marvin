@@ -1,5 +1,5 @@
 ## Top
-# 🎉 DAWG AC Relay Driver Board v1.0.0
+# 🎉 4-Channel DC Relay Driver Board with Voltage Jumper Settings v1.0.0
 ### ◀️ [Back](/)
 <img src="images/3dv1.png" alt="PCB Back" width="300">
 
@@ -19,21 +19,18 @@
 
 ## Overview
 
-DAWG (AC Relay Driver Board). This board is purpose-built to address a common need in electronics projects: providing a reliable AC relay driver. Its primary goal is to enable low-voltage output controllers like Arduino and ESP microcontrollers to efficiently control multiple AC CONTACTORS or Industrial DC Relay Switches (of DC voltage more than 12VDC).
-
-## Features
-
-- **Relay Control:** This feature simplifies the process of controlling mechanical and solid-state relays, enabling you to manage higher voltage loads with ease.
-
-- **Versatility:** The board is designed to drive HV relay switches, encompassing both mechanical and solid-state options, making it adaptable to a wide range of applications.
-
-- **Ease of Integration:** The board ensures easy integration through user-friendly terminal screw blocks, connectors, and pin headers configurations.
-
-- **DIN Rail Support:** DIN RAIL compatibility enables seamless mounting in standard 35mm DIN RAIL enclosures. This feature ensures that your projects have a professional and sturdy appearance and can be effortlessly integrated into existing distribution panels.
-
-- **Comprehensive Documentation:** Access comprehensive documentation to swiftly get started and leverage the full potential of your relay driver.
 
 
+MARVIN is a specialized RAIL DIN board measuring 76mm x 86mm, featuring two screw holes with 25mm center-to-center distance, designed for 4-channel DC relay driving. Unlike standard relays, MARVIN facilitates the output of user-selected DC voltages (with jumper settings for 5VDC or 12VDC) to activate external DC relay switches.
+
+The board includes input terminals—WJ124-3.81-5P-14-00A and Header-Female-2.54_1x5, DZ254R-11-05-63—connected to the microcontroller's output pins. Powered by an external 5VDC source, this relay driver offers a specialized solution for various electronics projects.
+
+### Features:**
+- 4-channel DC relay driver with jumper settings for 5VDC or 12VDC output.
+- Input terminals connected to microcontroller output pins.
+- Designed for activating external DC relay switches using user-selected DC voltages.
+- Dimensions: 76mm x 86mm RAIL DIN board with screw holes for easy installation.
+- Powered by an external 5VDC source for reliable performance.
 
 [🔝 Top](#top)
 
