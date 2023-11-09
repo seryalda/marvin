@@ -35,7 +35,12 @@ The board includes input terminals—WJ124-3.81-5P-14-00A and Header-Female-2.54
 
 ## Things you need to know
 
-NA
+### MARVIN - 4-Channel DC Relay Driver Board with Voltage Jumper Settings
+- **Voltage Configuration:** Adjust the jumper settings for user-selected DC voltages (5VDC or 12VDC) based on your project requirements.
+- **Input Terminals:** Connect the specified input terminals to the microcontroller's output pins for seamless functionality.
+- **Size and Mounting:** The board's dimensions are 76mm x 86mm with two screw holes for convenient installation.
+- **Power Source:** Ensure an external 5VDC power source to maintain the board's reliable performance.
+- **Compatible Relay Switches:** Select appropriate external DC relay switches that align with the board's specifications.
 
 [🔝 Top](#top)
 
