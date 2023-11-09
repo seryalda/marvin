@@ -14,7 +14,7 @@
 - 🖥️ [Compatible Processor Boards](#compatible-processor-boards)
 - ❓ [FAQ](#faq)
 - 📜 [Disclaimer](#disclaimer)
-- 📝 [License](#license)
+- 📝 [Demo](#demo)
 
 ## Overview
 
@@ -77,9 +77,9 @@ NA
 
 [🔝 Top](#top)
 
-## License
+## Demo
 
-NA
+<img src="images/demo.png" alt="PCB Back" width="300">
 
 [🔝 Top](#top)
 
