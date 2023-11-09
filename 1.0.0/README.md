@@ -1,5 +1,5 @@
 ## Top
-# 🎉 4-Channel DC Relay Driver Board with Voltage Jumper Settings v1.0.0
+# 🎉 MARVIN 4-Channel DC Relay Driver Board with Voltage Jumper Settings v1.0.0
 ### ◀️ [Back](/)
 <img src="images/3dv1.png" alt="PCB Back" width="300">
 
